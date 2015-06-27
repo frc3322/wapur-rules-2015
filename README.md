@@ -1,20 +1,28 @@
 
 # Washtenaw Pick-Up Robotics - WAPUR
 
-Right now this is just an idea. Ken has written down some of his thoughts,
-but the project depends on what we want to do and what we're willing to work
-towards. Imagine a small group of students spending four team saturdays and a
-bunch of their own evenings building a robot so they can play pick-up games
-in a Washtenaw league.
+The idea of a pick-up robotics game took shape on the bus ride back from
+St. Louis. A bunch of us were excited about completely student-built OCCRA
+style robots, but we also wanted a game that could be played without any
+complicated field setup or scheduling or referees.
 
-# Next Steps
+The rules are still evolving, but this is how it works:
 
-- Write robot rules (based on FRC with restrictions added)
-- Write build and mentoring restrictions (based on OCCRA)
-- Write "spirit of the game" rules (based on Ultimate's self referring)
-- Develop the game itself
-- Play test and iterate
-- Outline a fall program built around pick-up robotics
+- A few students build a small FRC robot: 2 foot square and 60 pound max.
+- OCCRA build restrictions are followed. Students and non-precision tools only!
+- They post a meetup to other area teams to play a game.
+- One group brings the field--it's small enough to fit in the trunk of a car.
+- Students inspect each other's robots and lay out the field.
+- Matches are played using standard driver stations in practice mode.
+- When the batteries are dead, everyone goes home.
+
+Team 3322 is including WAPUR as a component of the 2015 fall program.
+We're finishing up the rules over the summer, play testing and then running
+matches all fall. There won't be any restrictions on how much time can be
+spent building a robot and previous year's components (and even entire
+robots) can be reused. We don't intend to change the rules year to year.
+Basketball and soccer don't change the rules, so we shouldn't have to
+either. The point is to build skills and have fun.
 
 # Background
 
