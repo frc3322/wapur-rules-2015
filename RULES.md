@@ -49,7 +49,7 @@ play during teleop.
 # Teleop Play
 
 Alliances attempt to clear all flags from their sector. Once their
-sector is clear of flags, one of the alliance's ball comes into
+sector is clear of flags, one of the alliance's balls comes into
 play. Human players can throw or bounce the ball into the goal, or
 give it to a robot or to another human player. Robots may use any
 technique to put the ball into the goal, but the goal may not be
@@ -81,3 +81,6 @@ been put into the goal. Robots may not move the goal.
 
 An alliance breaking a rule receives a time penalty or ball adjustment
 depending on the severity of the offense.
+
+# Sample Field
+
